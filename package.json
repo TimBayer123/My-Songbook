@@ -1,0 +1,30 @@
+{
+  "name": "my-songbook",
+  "version": "1.0.0",
+  "description": "Eine musikerfreundliche App zur Verwaltung von Songtexten",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimBayer123/My-Songbook.git"
+  },
+  "keywords": [
+    "Songtext",
+    "Lyrics",
+    "Browser",
+    "App",
+    "Single",
+    "Page",
+    "App",
+    "Beispiel",
+    "Demo"
+  ],
+  "author": "Dennis Schulmeister-Zimolong",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/TimBayer123/My-Songbook/issues"
+  },
+  "homepage": "https://github.com/TimBayer123/My-Songbook#readme"
+}
